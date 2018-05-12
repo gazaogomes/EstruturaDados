@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526144550 source:c:\users\gabrielgomes\documents\netbeansprojects\aqui\lista_encadeada_estatica_whisky\pilhaestaticaa\pilha_estaticaa.c
+	"pilha_estaticaA.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526144565 c:\users\gabrielgomes\documents\netbeansprojects\aqui\lista_encadeada_estatica_whisky\pilhaestaticaa\pilha_estaticaa.h
+
